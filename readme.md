@@ -3,8 +3,6 @@ This repository is containg the codes for hair segmentation, classification, and
 I have included environment.yml file which contains all the dependices to run this project. Install anaconda and use the following command to create the enviornment from this yml file 
 "conda env create -f environment.yml".
 
-A data scrapper is included to scrape more data from google search engine. You will need to download the web driver for chromefrom "https://chromedriver.chromium.org/downloads".
-
 same data is present in the segmentation_dataset and classification_dataset with a slight difference. Segmentation dataset includes all the rgb images along with the catagorical masks. 
 Please note that the segmentation masks are in the pixel range [0-2] as they are catagorical. Pixels with values 2 correspondes to hair pixels, 1 to face, and 0 to background. To visualize 
 such image I would recommend using ImageJ utility. Open the ImageJ and drag and drop any segmentation mask into this and then from the toolbar->Image->Adjust->Brightness/Contrast->Set set 

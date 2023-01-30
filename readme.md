@@ -27,8 +27,8 @@ training will be of 224x224x3 (not grayscale) without any normalization (i.e in 
 
 Here is the output result of the segmentation model.
 
-![alt text](https://github.com/mshakeelt/Human-Hair-Segmentation-and-Length-Classification/blob/main/sample_output./Segmentation_Output.png)
+![alt text](https://github.com/mshakeelt/Human-Hair-Segmentation-and-Length-Classification/blob/main/sample_output/Segmentation_Output.png)
 
 and here is the output result of complete application
 
-![alt text](https://github.com/mshakeelt/Human-Hair-Segmentation-and-Length-Classification/blob/main/sample_output./sample_output.png)
+![alt text](https://github.com/mshakeelt/Human-Hair-Segmentation-and-Length-Classification/blob/main/sample_output/sample_output.png)
